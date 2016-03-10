@@ -3,5 +3,5 @@ Hello everyone!
 My first repository!
 This is fun!
 SSH is safe.
-It worked!
+I hope this time it will work.
 Does it worked?
